@@ -13,9 +13,10 @@ The lab introduces foundational enterprise networking concepts and establishes t
 ## 2. Network Architecture
 
 The network consists of two locations:
+
 ### Network Topology
 
-![Project Snowden Lab 001 Network Topology](Snowdon%20Lab%20001%20Tolology.png)
+![Project Snowden Lab 001 Network Topology](Snowdon%20Lab%20001%20Topology.png)
 
 **Headquarters (HQ)**
 - Cisco 2911 router
