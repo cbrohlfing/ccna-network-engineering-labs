@@ -37,13 +37,17 @@ Router configuration, IPv4 addressing, routing, and higher-layer network service
 
 ### Devices and Equipment
 
-The guided exercise was completed in Cisco Packet Tracer.
+The guided exercise was completed using Cisco Packet Tracer.
 
-Specific device models, interface assignments, and topology details were not recorded in the original lab notes.
+The completed network topology is documented in the diagram above, and the associated Packet Tracer project file is included in this directory.
+
+Detailed device models and interface assignments can be inspected directly in the Packet Tracer project.
 
 ### Architecture
 
-The exercise provided hands-on practice identifying network interfaces and selecting cables to establish physical connections.
+The exercise provided hands-on practice identifying network interfaces and selecting appropriate cables to establish physical connections.
+
+The topology diagram and accompanying Packet Tracer project provide supporting documentation of the completed exercise.
 
 ## 4. Addressing and Design
 
@@ -59,7 +63,7 @@ Not applicable. No device IP addressing was documented for this exercise.
 
 **Copper Ethernet**
 
-- Twisted-pair cabling
+- Twisted-pair Ethernet cabling
 - RJ-45 connectors
 - Straight-through and crossover cable concepts
 - Ethernet interface speeds and distance limitations
@@ -80,9 +84,11 @@ Not applicable. No device IP addressing was documented for this exercise.
 
 ### Configuration Summary
 
-Completed the guided Packet Tracer cabling exercise accompanying Jeremy's IT Lab Day 02.
+Completed the guided Cisco Packet Tracer exercise accompanying Jeremy's IT Lab Day 02.
 
-The exercise involved identifying interfaces and selecting appropriate cables for network connections.
+The exercise involved identifying network interfaces and selecting appropriate cables for physical network connections.
+
+The completed Packet Tracer project was retained as supporting evidence of the exercise.
 
 ### Device Configurations
 
@@ -105,7 +111,13 @@ Not applicable. No CLI verification commands were recorded for this exercise.
 
 The completed exercise was compared with the course's lab walkthrough.
 
-No additional command outputs, interface-status logs, or screenshots were recorded in the original documentation.
+Supporting evidence includes:
+
+- The completed Cisco Packet Tracer project file
+- The network topology screenshot embedded in Section 3
+- The documented learning objectives and technical concepts
+
+No CLI verification outputs or interface-status logs were retained.
 
 ## 7. Troubleshooting
 
@@ -135,26 +147,30 @@ Physical connectivity must be established before higher-layer network communicat
 - Consider connector and transceiver compatibility.
 - Understand the basic applications of copper and fiber-optic cabling.
 - Verify physical connectivity before troubleshooting higher-layer protocols.
+- Retain completed lab files and topology diagrams to support technical documentation.
 
 ## 9. Lab Outcome
 
 **Final Status:** Completed
 
-Successfully completed the guided Packet Tracer cabling exercise and reviewed the results against the course walkthrough.
+Successfully completed the guided Cisco Packet Tracer cabling exercise and reviewed the results against the course walkthrough.
 
 The activity reinforced fundamental Ethernet cabling, interface identification, and physical connectivity concepts.
 
 ### Limitations
 
-- Specific topology and device models were not documented.
+- Detailed device inventory and interface assignments are not listed in this report; the topology and Packet Tracer project are provided for inspection.
 - No IP addressing or router configuration was recorded.
 - No CLI verification outputs were retained.
+- No specific troubleshooting incidents were documented.
 
 ## 10. Supporting Files and References
 
 ### Supporting Files
 
-- This README documenting the guided exercise and learning outcomes.
+- [Completed Packet Tracer Lab](Day%2002%20-%20Lab%2001%20-%20Two%20Site%20Network.pkt)
+- [Day 02 Network Topology](CCNA_Day02_Topology.png)
+- This README documenting the guided exercise and learning outcomes
 
 ### References and Attribution
 
