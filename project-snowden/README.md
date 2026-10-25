@@ -12,6 +12,16 @@ Unlike guided training exercises, Project Snowden is a progressive network built
 
 The project begins with foundational network connectivity and progressively introduces more advanced enterprise networking technologies.
 
+## Project Origin and Development
+
+Project Snowden was independently designed and built from scratch in Cisco Packet Tracer as a progressive enterprise network engineering project.
+
+Project Snowden is designed, implemented, and documented independently of guided CCNA training exercises.
+
+The project provides an environment for independently practicing network design, device configuration, connectivity verification, troubleshooting, and technical documentation.
+
+Future labs will expand upon the existing infrastructure, introducing additional technologies and increasingly complex network engineering scenarios.
+
 ## Network Environment
 
 The initial network consists of:
@@ -24,16 +34,6 @@ The initial network consists of:
 - Static routing between locations
 
 The existing infrastructure will be expanded and modified as additional technologies are introduced.
-
-## Project Origin and Development
-
-Project Snowden was independently designed and built from scratch in Cisco Packet Tracer as a progressive enterprise network engineering project.
-
-Although some foundational network topologies may resemble those used in introductory CCNA training exercises, Project Snowden is developed separately from guided course labs.
-
-The project provides an environment for independently practicing network design, device configuration, connectivity verification, troubleshooting, and technical documentation.
-
-Future labs will expand upon the existing infrastructure, introducing additional technologies and increasingly complex network engineering scenarios.
 
 ## Lab Index
 
