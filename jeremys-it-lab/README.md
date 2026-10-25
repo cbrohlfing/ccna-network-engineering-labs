@@ -1,43 +1,103 @@
-# Jeremy's IT Lab — CCNA Practice Labs
+# Jeremy's IT Lab — CCNA Practical Exercises
 
-This directory documents my hands-on practice while studying for the Cisco CCNA 200-301 certification using [Jeremy's IT Lab](https://www.youtube.com/@JeremysITLab).
+## Guided Network Engineering Training
 
-These are guided educational exercises, maintained separately from my independent enterprise networking project, [Project Snowden](../project-snowden/).
+**Project Type:** Guided CCNA Training  
+**Platform:** Cisco Packet Tracer  
+**Course:** Jeremy's IT Lab — CCNA 200-301  
+**Status:** Ongoing
 
-## Purpose
+This section documents hands-on networking exercises completed alongside Jeremy McDowell's CCNA training course.
 
-- Practice Cisco IOS configuration and verification
-- Reinforce concepts from the CCNA curriculum
-- Develop troubleshooting and problem-solving skills
-- Document my own configurations, observations, and lessons learned
+The purpose of these exercises is to reinforce networking fundamentals through practical implementation, Cisco device configuration, connectivity testing, and troubleshooting.
 
-## Lab Progress
+Each lab report documents my own learning experience, configuration activities, verification results, and technical observations.
 
-| Lab | Topic | Status |
-|---|---|---|
-| Day 02 | Interfaces and Cables | Completed |
-| Day 04 | Cisco IOS CLI | Planned |
-| Day 05+ | Additional CCNA Practice Labs | Planned |
+Unlike Project Snowden, these exercises follow guided training materials and are credited to their original creator.
 
-Additional labs will be documented as I progress through the course.
+## Training Objectives
 
-## Documentation Format
+- Reinforce networking concepts through practical exercises.
+- Develop familiarity with Cisco networking devices and interfaces.
+- Practice Cisco IOS configuration and verification commands.
+- Improve troubleshooting and problem-solving skills.
+- Connect theoretical CCNA concepts with practical network behavior.
+- Build consistent technical documentation habits.
 
-Each lab entry may include:
+## Lab Index
 
-1. Learning objectives
-2. Network topology
-3. Commands and configuration work
-4. Verification results
-5. Troubleshooting observations
-6. Lessons learned
+Completed exercises are documented using the same technical reporting standard as Project Snowden.
 
-## Attribution
+### Completed Labs
 
-The original course and guided lab exercises were created by Jeremy McDowell of Jeremy's IT Lab.
+| Lab | Topic | Skills Practiced | Documentation |
+|---|---|---|---|
+| Day 02 | Interfaces and Cables | Ethernet interfaces, copper and fiber-optic cabling, physical network connectivity | [View Day 02 Lab Report](day-02-interfaces-and-cables/README.md) |
 
-This repository contains my own documentation and independently produced work. Original course instructions, flashcards, and supplied training materials are not redistributed.
+Additional labs will be added as they are completed and documented.
+
+## Lab Documentation Standards
+
+Each completed lab follows the **Network Engineering Lab Report Standard v1.0**, providing a consistent structure for recording technical work.
+
+The standard includes:
+
+1. Lab Overview
+2. Learning Objectives
+3. Network Topology
+4. Addressing and Design
+5. Implementation
+6. Verification and Testing
+7. Troubleshooting
+8. Key Concepts and Lessons Learned
+9. Lab Outcome
+10. Supporting Files and References
+
+Not every guided exercise requires extensive configuration or troubleshooting. Sections that do not apply are identified accordingly.
+
+[View the Master Lab Report Template](../templates/NETWORK_LAB_REPORT_TEMPLATE.md)
+
+## Learning and Verification Approach
+
+**Study:** Review the networking concepts and objectives introduced in the corresponding lesson.
+
+**Implement:** Complete the guided exercise using Cisco Packet Tracer and the provided instructions.
+
+**Verify:** Inspect interfaces, device configurations, or network connectivity as appropriate to the exercise.
+
+**Troubleshoot:** Investigate configuration or connectivity issues encountered during the exercise.
+
+**Document:** Record the work performed, verification evidence, observations, and lessons learned.
+
+This approach emphasizes understanding network behavior rather than simply reproducing configuration commands.
+
+## Supporting Files
+
+Individual lab directories may contain:
+
+- Cisco Packet Tracer project files (`.pkt`)
+- Network topology diagrams
+- Technical lab reports (`README.md`)
+- Configuration examples or verification evidence, when available
+
+Supporting materials are included only when appropriate for the exercise and consistent with the original course's usage permissions.
+
+## Course Attribution
+
+These exercises are based on the publicly available CCNA training materials developed by **Jeremy McDowell** through Jeremy's IT Lab.
+
+The original instructional content, guided exercises, and associated training materials belong to their respective creator.
+
+The documentation in this repository represents my own study notes, practical observations, and technical reporting.
+
+**Original Course:** [Jeremy's IT Lab](https://www.jeremysitlab.com/)
+
+## Related Resources
+
+- [CCNA Network Engineering Portfolio](../README.md) — Main repository and completed lab index
+- [Project Snowden](../project-snowden/README.md) — Independent enterprise network engineering project
+- [Network Engineering Notes](../network-engineering-notes/README.md) — Technical references and networking concepts
 
 ---
 
-*This section documents guided CCNA practice and is not an independent network engineering project.*
+*This section is an independent record of my CCNA studies and is not affiliated with or endorsed by Jeremy's IT Lab or Cisco Systems.*
