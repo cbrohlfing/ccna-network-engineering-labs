@@ -33,7 +33,7 @@ Router configuration, IPv4 addressing, routing, and higher-layer network service
 
 ### Topology Diagram
 
-Not included in the current documentation.
+![Jeremy's IT Lab Day 02 Network Topology](CCNA_Day02_Topology.png)
 
 ### Devices and Equipment
 
