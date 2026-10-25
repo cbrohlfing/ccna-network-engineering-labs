@@ -25,6 +25,16 @@ The initial network consists of:
 
 The existing infrastructure will be expanded and modified as additional technologies are introduced.
 
+## Project Origin and Development
+
+Project Snowden was independently designed and built from scratch in Cisco Packet Tracer as a progressive enterprise network engineering project.
+
+Although some foundational network topologies may resemble those used in introductory CCNA training exercises, Project Snowden is developed separately from guided course labs.
+
+The project provides an environment for independently practicing network design, device configuration, connectivity verification, troubleshooting, and technical documentation.
+
+Future labs will expand upon the existing infrastructure, introducing additional technologies and increasingly complex network engineering scenarios.
+
 ## Lab Index
 
 Each lab builds upon the existing network environment and documents the technologies implemented, configuration decisions, verification results, and engineering lessons learned.
