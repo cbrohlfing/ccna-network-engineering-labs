@@ -1,2 +1,0 @@
-Harmless temporary test of connected GitHub write access.
-This file will be deleted after its contents are verified.
